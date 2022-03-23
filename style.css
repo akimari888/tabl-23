@@ -1,0 +1,42 @@
+th{
+   text-align: center;
+   padding: 30px ;
+   padding-top: 30px ;
+   padding-bottom:30px  ;
+   font-size: larger;
+  
+}
+td {
+    padding-top: 30px ;
+   padding-bottom:30px  ;
+    padding: 30px;
+    text-align: center;
+
+}
+table {
+    border: 2px solid black;
+    border-spacing: 10px;
+}
+.grey {
+    background-color: rgb(179, 179, 179);
+}
+img {
+    height: 30px;
+    width: 30px;
+}
+
+table {
+    border-spacing: 0;
+}
+.blue {
+    background-color: rgb(84, 117, 209);
+}
+.green {
+    background-color: rgb(122, 212, 122);
+}
+.yellow {
+    background-color: rgb(255, 255, 112);
+}
+.red {
+    background-color: rgb(255, 57, 57);
+}
